@@ -25,7 +25,7 @@ una stringa rossa. -->
       if($password === "Boolean") {
         echo "<h1 style='color:green'>stringa verde</h1>";
         } else {
-          echo "<h1 style='color:red'>stringa rossa</h1>";
+        echo "<h1 style='color:red'>stringa rossa</h1>";
         }
 
 ?>
